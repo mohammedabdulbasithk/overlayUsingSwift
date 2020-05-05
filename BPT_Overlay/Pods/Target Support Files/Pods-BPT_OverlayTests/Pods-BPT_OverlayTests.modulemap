@@ -1,0 +1,6 @@
+framework module Pods_BPT_OverlayTests {
+  umbrella header "Pods-BPT_OverlayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
